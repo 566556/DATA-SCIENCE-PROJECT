@@ -1,0 +1,11 @@
+trip_id,weather_condition,bus_type,traffic_level,distance_km,num_stops,passenger_count,driver_experience_years,scheduled_duration_minutes
+NEW_TRIP_01,Rain,Express,High,18.84,9,26,17,34.7
+NEW_TRIP_02,Snow,Articulated,Severe,39.09,25,56,3,39.0
+NEW_TRIP_03,Rain,Electric,Low,23.35,28,48,11,47.9
+NEW_TRIP_04,Clear,Articulated,Severe,8.28,24,27,19,32.2
+NEW_TRIP_05,Rain,Articulated,High,33.47,11,26,9,55.6
+NEW_TRIP_06,Clear,Express,Low,12.41,18,15,4,40.7
+NEW_TRIP_07,Fog,Express,Low,24.4,6,38,14,39.5
+NEW_TRIP_08,Clear,Standard,Low,15.23,27,76,10,87.9
+NEW_TRIP_09,Rain,Express,Low,33.56,7,26,13,31.4
+NEW_TRIP_10,Clear,Articulated,Low,33.98,18,53,5,75.0

@@ -1,0 +1,11 @@
+trip_id,predicted_delay_level,predicted_trip_duration_minutes
+NEW_TRIP_01,Severe-Delay,60.62
+NEW_TRIP_02,Severe-Delay,90.05
+NEW_TRIP_03,Slight-Delay,56.15
+NEW_TRIP_04,Severe-Delay,63.26
+NEW_TRIP_05,Severe-Delay,82.88
+NEW_TRIP_06,On-Time,42.11
+NEW_TRIP_07,Slight-Delay,50.15
+NEW_TRIP_08,On-Time,87.51
+NEW_TRIP_09,Slight-Delay,40.58
+NEW_TRIP_10,On-Time,77.94
